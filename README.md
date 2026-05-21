@@ -33,3 +33,19 @@ This repository does not contain:
 This repository exists to make Flexdoc more open, discoverable and useful without exposing private operating intelligence.
 
 Our private operating systems, lender notes, deal reviews, workflow intelligence and internal strategy remain separate.
+
+## Public and private knowledge boundaries
+
+Flexdoc separates public education from private operating intelligence.
+
+This public repository is designed to share general information about who we are, the problems we are working on and how we think about specialist property finance.
+
+Some knowledge is intentionally kept in private systems and repositories, including:
+- client and borrower information
+- lender-specific observations
+- internal workflow processes
+- deal reviews and operational learnings
+- proprietary credit and servicing insights
+- partner and distribution strategy
+
+This separation helps us remain open and useful publicly while protecting client confidentiality, commercial relationships and the internal knowledge Flexdoc is building over time.
